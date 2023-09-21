@@ -1,0 +1,116 @@
+
+
+img{
+    height:500px;
+    width: 500px;
+    border:10px solid rgb(49, 47, 47);
+    /* margin-left:400px; */
+}
+
+.head1{
+    color: rgb(62, 73, 91);
+    font-family: sans-serif;
+    font-size:108px;
+}
+
+.head2{
+    color:rgb(102, 119, 115);
+    font-family: sans-serif;
+    font-size:50px;
+}
+
+.head3{
+    color: rgb(120, 149, 145);
+    font-family: sans-serif;
+    font-size:50px;
+}
+
+.head4{
+    color: rgb(95, 48, 6);
+    font-family: sans-serif;
+    font-size:50px;
+}
+
+.head5{
+    color: rgb(95, 48, 6);
+    font-family: sans-serif;
+    font-size:50px;
+}
+
+
+
+
+        body, h1, p {
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            font-family: Arial, sans-serif;
+            background-color:rgb(14, 46, 91);
+        }
+
+        header {
+            background-color: #333;
+            color: #d7e2db;
+            padding: 20px;
+            text-align: center;
+        }
+
+        nav {
+            background-color: #444;
+            text-align: center;
+        }
+
+        nav ul {
+            list-style: none;
+            padding: 0;
+        }
+
+        nav li {
+            display: inline;
+            margin-right: 20px;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        .jumbotron {
+            background-image: url('your-image.jpg');
+            background-size: cover;
+            color: #fff;
+            text-align: center;
+            padding: 100px 0;
+        }
+
+        .jumbotron h1 {
+            font-size: 48px;
+            margin-bottom: 20px;
+        }
+
+        .jumbotron p {
+            font-size: 24px;
+        }
+
+        .content {
+            padding: 40px 0;
+            color: #d7e2db;
+            font-size: 30px;
+        }
+
+        #a1{
+           font-family:sans-serif;
+           font-size: 50px;
+           color: cadetblue;
+        }
+
+        #a2{
+            font-family:inherit;
+            font-size: 50px;
+            color: cadetblue;
+         }
+ 
+
